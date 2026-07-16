@@ -4,7 +4,7 @@
 <title>Happy Day News</title>
 <link>https://github.com/davidrobertdaniels/happy-day-news-feed</link>
 <language>en-us</language>
-<description>Your daily dose of good news from around the world. RSSVERIFY</description>
+<description>Your daily dose of good news from around the world.</description>
 <itunes:author>Happy Day News</itunes:author>
 <itunes:owner>
 <itunes:name>Happy Day News</itunes:name>
@@ -21,14 +21,6 @@
 <description><![CDATA[<ol><li><strong>NASA's Webb Discovers Hidden Planet in Famous Star System</strong><br>Significant discovery in exoplanet research.<br><a href="https://science.nasa.gov/missions/webb/nasas-webb-discovers-hidden-planet-in-famous-star-system/">Read full story →</a></li><li><strong>India uses color psychology to prevent wildlife collisions: 'Red roads, green intent'</strong><br>Innovative approach to wildlife conservation.<br><a href="https://www.goodgoodgood.co/articles/wildlife-crossings-protection-india-red-road">Read full story →</a></li><li><strong>Going to museums, movies, and theater may help your body stay younger</strong><br>Cultural activities linked to healthier aging.<br><a href="https://www.sciencedaily.com/releases/2026/07/260714225526.htm">Read full story →</a></li><li><strong>Teen Hailed as a Hero After Saving Woman With Dementia From Dangerous Arizona Heat</strong><br>Inspiring act of kindness and bravery.<br><a href="https://www.sunnyskyz.com/good-news/6253/Teen-Hailed-as-a-Hero-After-Saving-Woman-With-Dementia-From-Dangerous-Arizona-Heat">Read full story →</a></li><li><strong>The City That Chose Beauty Over Billboards</strong><br>Successful urban policy for visual pollution reduction.<br><a href="https://reasonstobecheerful.world/grenoble-beauty-over-billboards/">Read full story →</a></li></ol>]]></description>
 <enclosure url="https://raw.githubusercontent.com/davidrobertdaniels/happy-day-news-feed/main/episodes/happy_day_news_4776f8d9.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-07-15</guid>
-</item>
-<item>
-<title>Happy Day News — 2026-07-15</title>
-<itunes:episode>2</itunes:episode>
-<pubDate>Wed, 15 Jul 2026 15:06:46 GMT</pubDate>
-<description><![CDATA[<ol><li><strong>CUHK launches first cross-border clinical trial centre in Nansha</strong><br>Establishes a new hub for medical innovation.<br><a href="https://www.scmp.com/news/hong-kong/health-environment/article/3360710/cuhk-launches-first-cross-border-clinical-trial-centre-nansha?utm_source=rss_feed">Read full story →</a></li><li><strong>India uses color psychology to prevent wildlife collisions: 'Red roads, green intent'</strong><br>Innovative approach to protect wildlife on highways.<br><a href="https://www.goodgoodgood.co/articles/wildlife-crossings-protection-india-red-road">Read full story →</a></li><li><strong>The City That Chose Beauty Over Billboards</strong><br>Grenoble removes billboards to enhance urban beauty.<br><a href="https://reasonstobecheerful.world/grenoble-beauty-over-billboards/">Read full story →</a></li><li><strong>This Bamboo Umbrella Has Survived 100 Years And Meghalaya's Farmers Still Rely On It</strong><br>Sustainable traditional design supports local farmers.<br><a href="https://thebetterindia.com/web-stories/sustainability/meghalaya-traditional-bamboo-rain-shield-umbrella-knup-12166239">Read full story →</a></li><li><strong>The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's</strong><br>Discovery may lead to new Alzheimer's treatments.<br><a href="https://www.sciencedaily.com/releases/2026/07/260714225542.htm">Read full story →</a></li></ol>]]></description>
-<enclosure url="https://drive.google.com/uc?export=download&id=14qVVjNLbd4zPx_EhiRXPKekiLoM2qzrf" type="audio/mpeg" />
-<guid isPermaLink="false">happy-day-news-2026-07-15a</guid>
 </item>
 </channel>
 </rss>
