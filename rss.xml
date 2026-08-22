@@ -413,5 +413,13 @@
 <enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_200bbaa8.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-08-22</guid>
 </item>
+<item>
+<title>Happy Day News — 2026-08-22</title>
+<itunes:episode>48</itunes:episode>
+<pubDate>Sat, 22 Aug 2026 15:12:12 GMT</pubDate>
+<description><![CDATA[<h3 style="color:#111827;">Today's Headlines</h3><ol><li><strong>Transforming Britain’s Old Coalfields Into Clean Energy Sources</strong><br>Reviving old mines<br><a href="https://reasonstobecheerful.world/mine-water-heat-gateshead/">Read full story →</a></li><li><strong>Inflatable Pool Party Fills Dubai Atrium</strong><br>Artistic summer fun<br><a href="https://www.thisiscolossal.com/2026/08/craig-and-karl-under-the-sun-dubai-installation/">Read full story →</a></li><li><strong>6,500-Year-Old Human Tooth Pendant Found in Serbia</strong><br>Ancient artifact discovery<br><a href="https://phys.org/news/2026-08-museum-shelf-mystery-reveals-year.html">Read full story →</a></li><li><strong>Delhi Boy Builds 500-Plant Terrace Garden</strong><br>Urban biodiversity boost<br><a href="https://thebetterindia.com/web-stories/gardening/delhi-teen-amar-sharma-urban-jungle-terrace-garden-butterflied-bees-birds-native-plants-nature-12405289">Read full story →</a></li><li><strong>JWST Finds Early Galaxies May Be 4 Times More Massive</strong><br>Galactic mass surprise<br><a href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm">Read full story →</a></li></ol><hr><p style="color:#6b7280;font-size:0.85em;"><strong>Scores:</strong></p><ol><li>Transforming Britain’s Old Coalfields Into Clean Energy Sources [sig:4 sur:3 res:4]</li><li>Inflatable Pool Party Fills Dubai Atrium [sig:3 sur:4 res:3]</li><li>6,500-Year-Old Human Tooth Pendant Found in Serbia [sig:3 sur:4 res:3]</li><li>Delhi Boy Builds 500-Plant Terrace Garden [sig:3 sur:3 res:5]</li><li>JWST Finds Early Galaxies May Be 4 Times More Massive [sig:5 sur:5 res:3]</li></ol><hr><p style="color:#b45309;"><strong>⚠️ Pipeline notes (auto-generated):</strong></p><ul><li><strong>Orangutan Rescued from Traffickers Becomes a Mother</strong> — dropped: negative tone (matched: "rescued from")</li><li><strong>⚠️ Phantom tease</strong> — Tease line 3 ("An orangutan in Indonesia celebrates new life.") did not match any of the 5 final stories — dropped from the aired teaser.</li><li><strong>ℹ️ Teaser repaired</strong> — Model returned 4 tease line(s); after matching/dedup, 3 valid line(s) remained. Gaps were filled with safe generic lines.</li></ul>]]></description>
+<enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_e117fea1.mp3" type="audio/mpeg" />
+<guid isPermaLink="false">happy-day-news-2026-08-22a</guid>
+</item>
 </channel>
 </rss>
