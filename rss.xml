@@ -405,5 +405,13 @@
 <enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_48ef9b3a.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-08-21b</guid>
 </item>
+<item>
+<title>Happy Day News — 2026-08-22</title>
+<itunes:episode>47</itunes:episode>
+<pubDate>Sat, 22 Aug 2026 12:30:13 GMT</pubDate>
+<description><![CDATA[<h3 style="color:#111827;">Today's Headlines</h3><ol></ol><hr><p style="color:#6b7280;font-size:0.85em;"><strong>Scores:</strong></p><ol></ol><hr><p style="color:#b45309;"><strong>⚠️ Pipeline notes (auto-generated):</strong></p><ul><li><strong>New Zealand's Green Hydrogen Milestone</strong> — dropped: fabricated or unverifiable URL</li><li><strong>AI Translates Ancient Scripts in Minutes</strong> — dropped: fabricated or unverifiable URL</li><li><strong>Rare Turtles Hatch in Record Numbers</strong> — dropped: fabricated or unverifiable URL</li><li><strong>Community Builds Playground for All Abilities</strong> — dropped: fabricated or unverifiable URL</li><li><strong>Art Exhibit Travels to Remote Villages</strong> — dropped: fabricated or unverifiable URL</li><li><strong>Solar-Powered Desalination Plant Opens in Kenya</strong> — dropped: fabricated or unverifiable URL</li><li><strong>⚠️ ALERT</strong> — Episode ran with only 0 stories — not enough valid candidates</li><li><strong>⚠️ Phantom tease</strong> — Tease line 1 ("AI cracks ancient scripts in minutes.") did not match any of the 5 final stories — dropped from the aired teaser.</li><li><strong>⚠️ Phantom tease</strong> — Tease line 2 ("Thousands of turtles hatch on protected beaches.") did not match any of the 5 final stories — dropped from the aired teaser.</li><li><strong>⚠️ Phantom tease</strong> — Tease line 3 ("Inclusive playgrounds bring joy to all.") did not match any of the 5 final stories — dropped from the aired teaser.</li><li><strong>⚠️ Phantom tease</strong> — Tease line 4 ("Art travels to remote villages, enriching lives.") did not match any of the 5 final stories — dropped from the aired teaser.</li><li><strong>ℹ️ Teaser repaired</strong> — Model returned 4 tease line(s); after matching/dedup, 0 valid line(s) remained. Gaps were filled with safe generic lines.</li></ul>]]></description>
+<enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_200bbaa8.mp3" type="audio/mpeg" />
+<guid isPermaLink="false">happy-day-news-2026-08-22</guid>
+</item>
 </channel>
 </rss>
