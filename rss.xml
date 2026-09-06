@@ -533,5 +533,13 @@
 <enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_a8328ad5.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-09-06</guid>
 </item>
+<item>
+<title>Happy Day News — 2026-09-06</title>
+<itunes:episode>63</itunes:episode>
+<pubDate>Sun, 06 Sep 2026 14:50:31 GMT</pubDate>
+<description><![CDATA[<h3 style="color:#111827;">Today's Headlines</h3><ol><li><strong>Isar Aerospace Launches First Continental Orbit</strong><br>European space milestone<br><a href="https://www.esa.int/Enabling_Support/Space_Transportation/Boost/Isar_Aerospace_achieves_first_launch_to_orbit_from_continental_Europe">Read full story →</a></li><li><strong>Former Hunters Restore Songbird Habitat</strong><br>Conservation success<br><a href="https://www.goodgoodgood.co/articles/former-bird-hunters-rebuild-wildlife">Read full story →</a></li><li><strong>Long Exhales Encourage Bold Decisions</strong><br>Breathing impacts choices<br><a href="https://www.sciencedaily.com/releases/2026/09/260904000320.htm">Read full story →</a></li><li><strong>Omnigym Transforms Paris Shelter</strong><br>Health boost for homeless<br><a href="https://www.goodnewsnetwork.org/new-gym-in-paris-helps-homeless-improve-their-health-and-habits/">Read full story →</a></li><li><strong>Extreme Pressure Creates Record Copper Chains</strong><br>Nanotech breakthrough<br><a href="https://phys.org/news/2026-09-extreme-pressure-blue-pigment-atom.html">Read full story →</a></li></ol><hr><p style="color:#6b7280;font-size:0.85em;"><strong>Scores:</strong></p><ol><li>Isar Aerospace Launches First Continental Orbit [sig:5 sur:4 res:3]</li><li>Former Hunters Restore Songbird Habitat [sig:4 sur:4 res:5]</li><li>Long Exhales Encourage Bold Decisions [sig:3 sur:4 res:3]</li><li>Omnigym Transforms Paris Shelter [sig:3 sur:3 res:5]</li><li>Extreme Pressure Creates Record Copper Chains [sig:4 sur:5 res:2]</li></ol><hr><p style="color:#b45309;"><strong>⚠️ Pipeline notes (auto-generated):</strong></p><ul><li><strong>Horizontal Levees Revitalize Bay Area</strong> — dropped: negative tone (matched: "flood")</li><li><strong>⚠️ Phantom tease</strong> — Tease line 1 ("A levee in California mimics nature.") did not match any story — dropped.</li><li><strong>ℹ️ Teaser repaired</strong> — Model returned 4 tease line(s); 3 valid after matching. Gaps filled with generic lines.</li><li><strong>ℹ️ Final tease fixed</strong> — Story 5 tease did not end in "?" — replaced with generic withholding question.</li></ul>]]></description>
+<enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_77783add.mp3" type="audio/mpeg" />
+<guid isPermaLink="false">happy-day-news-2026-09-06a</guid>
+</item>
 </channel>
 </rss>
