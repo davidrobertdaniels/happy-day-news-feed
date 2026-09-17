@@ -645,5 +645,13 @@
 <enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_ea5a1869.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-09-17</guid>
 </item>
+<item>
+<title>Happy Day News — 2026-09-17</title>
+<itunes:episode>77</itunes:episode>
+<pubDate>Thu, 17 Sep 2026 16:10:46 GMT</pubDate>
+<description><![CDATA[<h3 style="color:#111827;">Today's Headlines</h3><ol><li><strong>Mystery Snowfall Adds 695 Billion Tons of Ice to Antarctica</strong><br>Record ice gain<br><a href="https://www.goodnewsnetwork.org/scientists-solve-mystery-behind-snowfall-that-dropped-695-billion-tons-of-ice-on-antarctica/">Read full story →</a></li><li><strong>Tunnel of Love Saves Endangered Pygmy-Possums</strong><br>Wildlife rescue<br><a href="https://www.goodgoodgood.co/articles/burramy-possums-tunnel-of-love">Read full story →</a></li><li><strong>Hong Kong Tech Hub Welcomes 100 Start-Ups</strong><br>Innovation boost<br><a href="https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3367903/100-start-ups-joining-hong-kongs-flagship-tech-hub-get-top-mentors?utm_source=rss_feed">Read full story →</a></li><li><strong>Cheddar Makers Save Energy with Milk-Source Heat Pumps</strong><br>Sustainable cheese<br><a href="https://www.theguardian.com/environment/2026/sep/17/milk-source-heat-pump-barbers-cheesemakers">Read full story →</a></li><li><strong>CosmicWatch: $100 Device Tracks Space Particles</strong><br>Affordable science<br><a href="https://www.sciencedaily.com/releases/2026/09/260917003725.htm">Read full story →</a></li></ol><hr><p style="color:#6b7280;font-size:0.85em;"><strong>Scores:</strong></p><ol><li>Mystery Snowfall Adds 695 Billion Tons of Ice to Antarctica [sig:5 sur:4 res:2]</li><li>Tunnel of Love Saves Endangered Pygmy-Possums [sig:4 sur:4 res:5]</li><li>Hong Kong Tech Hub Welcomes 100 Start-Ups [sig:4 sur:3 res:3]</li><li>Cheddar Makers Save Energy with Milk-Source Heat Pumps [sig:3 sur:3 res:3]</li><li>CosmicWatch: $100 Device Tracks Space Particles [sig:4 sur:5 res:2]</li></ol><hr><p style="color:#b45309;"><strong>⚠️ Pipeline notes (auto-generated):</strong></p><ul><li><strong>Hong Kong Tech Hub Welcomes 100 Start-Ups</strong> — Final segment was too short (51 words) or no longer matched its own headline after cleanup — replaced with a fact-grounded fallback built from the headline plus its extracted article facts.</li><li><strong>25,000 Trained in CPR by Indian Doctor</strong> — dropped: negative tone (matched: "\bCPR\b")</li></ul>]]></description>
+<enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_9185f7c4.mp3" type="audio/mpeg" />
+<guid isPermaLink="false">happy-day-news-2026-09-17a</guid>
+</item>
 </channel>
 </rss>
