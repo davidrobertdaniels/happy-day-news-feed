@@ -813,5 +813,13 @@
 <enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_ed21fa4f.mp3" type="audio/mpeg" />
 <guid isPermaLink="false">happy-day-news-2026-10-13</guid>
 </item>
+<item>
+<title>The Subway Rider&apos;s 11 Banks</title>
+<itunes:episode>98</itunes:episode>
+<pubDate>Wed, 14 Oct 2026 15:14:48 GMT</pubDate>
+<description><![CDATA[<h3 style="color:#111827;">Today's Headlines</h3><ol><li><strong>Rare Jaguar Captured on Camera Near Guatemala-Honduras Border</strong><br>Rare jaguar sighting<br><a href="https://www.goodgoodgood.co/articles/jaguar-endangered-species-panthera-wildlife-crossing">Read full story →</a></li><li><strong>Sylvia Bloom's Secret $9 Million Fortune Transforms Lives</strong><br>Secret fortune revealed<br><a href="https://www.upworthy.com/pn-sylvia-bloom-legal-secretary-secret-fortune/">Read full story →</a></li><li><strong>Arizona Teen's Generosity Warms Hearts</strong><br>Teen's generous act<br><a href="https://www.sunnyskyz.com/good-news/6327/Teen-Gives-Stranger-His-Shoes-Then-Goes-Above-and-Beyond-to-Help-Him">Read full story →</a></li><li><strong>World's Heaviest Pumpkin Breaks Record</strong><br>Record-breaking pumpkin<br><a href="https://www.goodnewsnetwork.org/worlds-heaviest-pumpkin-sets-incredible-new-record-at-2856-lbs/">Read full story →</a></li></ol><hr><p style="color:#6b7280;font-size:0.85em;"><strong>Scores:</strong></p><ol><li>Rare Jaguar Captured on Camera Near Guatemala-Honduras Border [sig:4 sur:4 res:3]</li><li>Sylvia Bloom's Secret $9 Million Fortune Transforms Lives [sig:4 sur:4 res:5]</li><li>Arizona Teen's Generosity Warms Hearts [sig:3 sur:3 res:5]</li><li>World's Heaviest Pumpkin Breaks Record [sig:3 sur:5 res:3]</li></ol><hr><p style="color:#b45309;"><strong>⚠️ Pipeline notes (auto-generated):</strong></p><ul><li><strong>Hospital Reduces Noise to Improve Patient Care</strong> — dropped: negative tone (matched: "\bpatient\b")</li><li><strong>Giant Fungus Discovery Challenges Science</strong> — dropped: duplicate domain (goodnewsnetwork.org)</li><li><strong>⚠️ ALERT</strong> — Episode ran with only 4 stories</li><li><strong>⚠️ Phantom tease</strong> — Tease line 1 matched story 1 — dropped.</li><li><strong>ℹ️ Teaser repaired</strong> — Model returned 2 tease line(s); 1 valid after matching. Gaps filled with generic lines.</li></ul>]]></description>
+<enclosure url="https://feed.happydaynews.day/episodes/happy_day_news_c4463636.mp3" type="audio/mpeg" />
+<guid isPermaLink="false">happy-day-news-2026-10-14</guid>
+</item>
 </channel>
 </rss>
